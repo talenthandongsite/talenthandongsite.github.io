@@ -186,7 +186,7 @@ Github Action으로의 변경 후 인스턴스를 t2.small로 조정하여 서�
 <br>
 <br>
 
-## 결과
+## 결론 
 
 ### 성과
 - [서비스 구현](http://talent-handong.site/app/fttModel)
@@ -199,10 +199,3 @@ Github Action으로의 변경 후 인스턴스를 t2.small로 조정하여 서�
 ### 한계
 - 데이터 모수의 부족으로 인한 낮은 활용성(현재 150, 연간 50건씩 쌓일 예정)
 - Github Action 파이프라인의 문제(방화벽)
-
-<br>
-<br>
-<br>
-
-## 결론
-
