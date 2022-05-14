@@ -22,7 +22,7 @@ FTT 가격 모델은 데이터의 모수가 부족하여 현재로써는 실질�
 
 ## 배경
 
-<image src="../../assets/images/ftt-model-excel.png" style="max-width: 500px;display: block; margin-left: auto; margin-right: auto">
+<image src="/assets/images/ftt-model-excel.png" style="max-width: 500px;display: block; margin-left: auto; margin-right: auto">
 
 <br>
 
@@ -43,7 +43,7 @@ FTT 가격 모델은 데이터의 모수가 부족하여 현재로써는 실질�
 <br>
 
 ## 아키텍처 설계 및 기획
-<image src="../../assets/images/ftt-model-arch.png" style="max-width: 800px;display: block; margin-left: auto; margin-right: auto">
+<image src="/assets/images/ftt-model-arch.png" style="max-width: 800px;display: block; margin-left: auto; margin-right: auto">
 
 <br>
 
