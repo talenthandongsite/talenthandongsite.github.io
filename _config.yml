@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: TALENT100 Tech Blog
+title: Talent Handong Dev
 email: talenthandogdev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Talent Handong Dev is software engineer team of HGT (Handong Global Talent: Handong Global University alumni investement group)
