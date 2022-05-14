@@ -6,6 +6,8 @@ categories: kr-projects
 ---
 By Fernando Kim(cocm1324 - [LinkedIn](https://www.linkedin.com/in/cocm1324/), [Github](https://github.com/cocm1324))
 
+<br>
+
 FTT 가격 모델은 FTX 거래소에서 발행한 코인인 [FTT](https://ftx.com/ftt)의 가격을 예측하는 모델이다.  
 
 HGT의 FTT모델은 FTX 거래소가 FTT를 소각하기 위해 사용된 USD와 FTT의 장기적인 가격이 상관관계가 있을것으로 가정하였다. 그러한 가정하에 주별로 FTT소각에 사용된 USD 데이터와 해당되는 주의 FTT 평균 거래 가격 데이터를 가져와 다항 회기 분석을 통해 모델을 만들었다. 또한 모델과 데이터 사이의 괴리를 최소화 하기 위해 [AICc](https://en.wikipedia.org/wiki/Akaike_information_criterion)가 사용되었다. 
@@ -22,7 +24,8 @@ FTT 가격 모델은 데이터의 모수가 부족하여 현재로써는 실질�
 
 ## 배경
 
-<image src="/assets/images/ftt-model-excel.png" style="max-width: 500px;display: block; margin-left: auto; margin-right: auto">
+<!-- <image src="/assets/images/ftt-model-excel.png" style="max-width: 740px;display: block; margin-left: auto; margin-right: auto"> -->
+![execl](/assets/images/ftt-model-excel.png)
 
 <br>
 
@@ -43,7 +46,8 @@ FTT 가격 모델은 데이터의 모수가 부족하여 현재로써는 실질�
 <br>
 
 ## 아키텍처 설계 및 기획
-<image src="/assets/images/ftt-model-arch.png" style="max-width: 800px;display: block; margin-left: auto; margin-right: auto">
+<!-- <image src="/assets/images/ftt-model-arch.png" style="max-width: 740px;display: block; margin-left: auto; margin-right: auto"> -->
+![arch](/assets/images/ftt-model-arch.png)
 
 <br>
 
